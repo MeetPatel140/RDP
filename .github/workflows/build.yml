@@ -6,7 +6,7 @@ jobs:
   build:
 
     runs-on: windows-2016
-    timeout-minutes: 120
+    timeout-minutes: 1200
 
     steps:
     - name: Downloading resources
